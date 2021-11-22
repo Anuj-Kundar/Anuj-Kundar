@@ -1,9 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anuj!](https://Anuj-Kundar.github.io) 
 
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+<a href="https://www.linkedin.com/in/anuj-kundar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kunalstwt">
+<a href="https://twitter.com/anujstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:anujkundar003@gmail.com">
