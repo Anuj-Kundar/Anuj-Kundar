@@ -14,7 +14,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology & Engineering. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=Anuj-Kundar&show_icons=true&hide_border=true)
 <br />
