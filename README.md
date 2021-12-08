@@ -1,8 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anuj!](https://Anuj-Kundar.github.io) 
 
-<a href="https://www.linkedin.com/in/anuj-kundar-2a1718209">
+<!-- <a href="https://www.linkedin.com/in/anuj-kundar-2a1718209">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+</a> -->
+[![Linkedin Badge](https://img.shields.io/badge/-AnujKundar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-kundar-2a1718209/)](https://www.linkedin.com/in/anuj-kundar-2a1718209/)
 <a href="https://twitter.com/anujstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
