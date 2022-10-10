@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "29px" width = "29px">, I'm [Anuj!](https://Anuj-Kundar.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height = "29px" width = "29px">, I'm [Anuj!]<!-- (https://Anuj-Kundar.github.io)--> 
 
 <a href="https://www.linkedin.com/in/anuj-kundar-2a1718209">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
