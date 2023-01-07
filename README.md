@@ -7,7 +7,7 @@
 <a href="https://twitter.com/anujstwt">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="mailto:anujkundar003@gmail.com">
+<a href="mailto:anuj.kundar13@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 
