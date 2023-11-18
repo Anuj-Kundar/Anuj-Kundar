@@ -55,7 +55,8 @@ Database:
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=anuj-kundar&show_icons=true&theme=gruvbox)
+  ![Anuj's github stats](https://github-readme-stats-anuj-kundars-projects.vercel.app/api?username=anuj-kundar&theme=nord&hide=stars)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-kundar&layout=compact&hide=css,html)
 
