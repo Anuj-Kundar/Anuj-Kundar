@@ -17,9 +17,54 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology & Engineering. </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
 
-![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=anuj-kundar&show_icons=true&theme=gruvbox)
+### Tools, languages, and other things that I like to work with.
+Language:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+Frameworks:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+
+Developer Tools:
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
+
+Libraries:
+<code><img height="30" src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+
+Database:
+<code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+
+
+
+
+<details>
+<summary>⚡️ More about my coding life</summary>
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anuj-Kundar.Anuj-Kundar)
+
+![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=anuj-kundar&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-kundar&layout=compact&hide=css,html)
+
+</details>
+
+<br />
+
 
 
 
