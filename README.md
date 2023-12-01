@@ -40,10 +40,6 @@ Developer Tools:
 <code><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
 
-Libraries:
-<code><img height="30" src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-
 Database:
 <code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
