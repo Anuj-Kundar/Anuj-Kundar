@@ -41,7 +41,7 @@ Developer Tools:
 <code><img height="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
 
 Database:
-<code><img height="30" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 
 
