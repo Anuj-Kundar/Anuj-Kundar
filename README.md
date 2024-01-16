@@ -53,8 +53,7 @@ Database:
 
 ![Anuj's github stats](https://github-readme-stats.sumanth-talluri.vercel.app/api?username=anuj-kundar&theme=nord&hide=stars)
 
-
-![Top Langs](https://github-readme-stats-anuj-kundars-projects.vercel.app/api/top-langs/?username=anuj-kundar&layout=compact&hide=css,html&theme=nord)
+![Top Langs](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=anuj-kundar&layout=compact&hide=css,html&theme=nord)
 </details>
 
 <br />
