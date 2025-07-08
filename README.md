@@ -1,8 +1,8 @@
 ## Hey 👋, I'm [Anuj!](https://Anuj-Kundar.github.io) 
 
-<a href="https://www.linkedin.com/in/anuj-kundar-2a1718209">
+<!-- <a href="https://www.linkedin.com/in/anuj-kundar-2a1718209">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  />
-</a>
+</a> -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-AnujKundar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anuj-kundar-2a1718209/)](https://www.linkedin.com/in/anuj-kundar-2a1718209/) -->
 <a href="https://twitter.com/anujstwt">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
