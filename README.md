@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer at IBM, specializing in Java, Spring Boot, and Microservices.
+- 💼 Application Developer at IBM, specializing in Java, Spring Boot, and Microservices.
 - 🚀 Experienced in developing scalable RESTful APIs and cloud-integrated solutions.
 - 🛠️ Skilled in backend development, database management, and unit testing.
 
